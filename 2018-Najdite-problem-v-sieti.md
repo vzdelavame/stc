@@ -1,3 +1,4 @@
+# Záverečný projekt z programovania: Nájdite si problém v sieti - Filip Biľ
 Mnoho z nás už niekedy riešilo problém so sieťou, či už že nás nechcelo pripojiť na nejakú sieť, alebo sme sa nevedeli dostať k nejakému serveru. Takéto problémy je zväčša zdĺhavé nachádzať, a preto sme pre Vás pripravili program, ktorý túto robotu oddrie za Vás. Tento článok je výhradne venovaný tomuto programu, ktorý sa hodí každému bežnému užívateľovi, no taktiež sa v ňom nájde nejeden skúsený sieťový technik.
 
 ## Ako to vzniklo?
